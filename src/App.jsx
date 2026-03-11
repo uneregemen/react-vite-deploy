@@ -105,7 +105,7 @@ export default function App() {
         </h1>
         <p style={{ fontSize: 'clamp(1.2rem, 3vw, 1.5rem)', color: '#94a3b8', lineHeight: '1.6', maxWidth: '800px', marginBottom: '48px', display: 'flex', alignItems: 'center', gap: '12px', flexWrap: 'wrap' }}>
           <GraduationCap size={32} color="#3b82f6" />
-          Software Engineering Student at Yaşar University. Building scalable backends and modern applications with endless energy.
+          Software Engineering Student at Yaşar University. Building scalable backends and modern applications.
         </p>
         <div style={{ display: 'flex', gap: '20px', flexWrap: 'wrap' }}>
           <a href="mailto:uneregeemen@gmail.com" className="btn-primary" style={{ display: 'flex', alignItems: 'center', gap: '10px', padding: '18px 36px', textDecoration: 'none', borderRadius: '16px', fontWeight: 'bold', fontSize: '1.1rem' }}>
